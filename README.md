@@ -4,7 +4,7 @@ Prediction of breast cancer using Random Forest Classification on the Wisconsin 
 ## Background
 Histological diagnosis of breast cancer is the gold standard, but is time-intensive. By enabling pathologists to automate analysis of cell slides, we can provide an effective screening tool to analyse slides, and in many cases, provide professional support in countries which lack the resources to train more pathologists.
 
-## Implementation
+## Implementation
 This dataset was trained with SKLearn and implemented with Streamlit to provide the front-end web app.
 
 # Disclaimer
