@@ -7,5 +7,9 @@ Histological diagnosis of breast cancer is the gold standard, but is time-intens
 ## Implementation
 This dataset was trained with SKLearn and implemented with Streamlit to provide the front-end web app.
 
+4 models are implemented to switch between for testing: Random Forest Classifier, Naive Bayesian Classifier, K Nearest Neighbours, and a Decision Tree Classifier.
+
+**Random Forest Classification gives the best accuracy (~92%)**
+
 # Disclaimer
 This web app is not suitable as a diagnostic tool and is intended for teaching purposes only.
